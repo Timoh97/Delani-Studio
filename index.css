@@ -32,6 +32,9 @@ h2,.intro {
     background-image: url(./assets/backgrounds/s_image.jpg);
     height: 700px;
     width: 1300px;
+    line-height: 2;
+    color: white;
+    padding-top: 260px;
 }
 
 .delani4 {
