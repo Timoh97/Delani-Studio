@@ -1,0 +1,31 @@
+.delani1{
+    background-image: url(./assets/backgrounds/h_img.jpg);
+    height: 700px;
+    width: 1570px;
+    padding-left: 0px;
+    margin: 0%;
+}
+
+h2,.intro {
+    color: whitesmoke;
+}
+.delani3 {
+    background-image: url(./assets/backgrounds/s_image.jpg);
+    height: 700px;
+    width: 1570px;
+}
+
+.delani5 {
+    background-image: url(./assets/backgrounds/c_image.jpg);
+    height: 700px;
+    width: 1570px
+}
+
+footer {
+    height: 200px;
+    width: 1570px 
+}
+.para-footer,.image-footer {
+    padding-top: 30px;
+    text-align: center;
+}
