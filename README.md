@@ -14,7 +14,10 @@ For queries and contribution contact me via email: timohmugendi@gmail.com
 Create a remote repository using terminal,git add remote url git commit -m "commit message" git push origin mmaster This moves work from local repository to remote.
 ## DESIGN
 This project had a design issued prior and has not been attached.
+<<<<<<< HEAD
 
+=======
+>>>>>>> b3c0631b208c1474293fb2c44c8bc64eaa0d1905
 Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing.
 Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what is needed.
 ## PRODUCT MANAGEMENT
