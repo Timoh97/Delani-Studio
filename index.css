@@ -1,62 +1,66 @@
 
-.delani1{
-    background-image: url(./assets/backgrounds/h_img.jpg);
-    height: 700px;
-    width: 1300px;
-    padding-top: 60px;
-}
 
-.delani2 {
-    padding: 60px;
-    line-height: 3;
-}
-
-
-.center-block {
-    margin-top: 70px;
-}
-
-#logo,#mouse {
-    margin-top: 170px;
-}
-
-#we-do {
-    display: flex;
-    justify-content: space-around;
-}
-
-h2,.intro {
-    color: white;
-}
-.delani3 {
-    background-image: url(./assets/backgrounds/s_image.jpg);
-    height: 700px;
-    width: 1300px;
-    line-height: 2;
-    color: white;
-    padding-top: 260px;
-}
-
-.delani4 {
-    background-color: white;
-}
-
-.delani5 {
-    background-image: url(./assets/backgrounds/c_image.jpg);
-    height: 700px;
-    width: 1300px
-}
-#contacts {
-    color: white;
-    padding-top: 30px;
-}
-footer {
-    height: 200px;
-    width: 1300px 
-}
-.para-footer,.image-footer {
-    padding-top: 30px;
-    text-align: center;
-    height: auto;
-    width: auto;
+@media only screen and (max-width: 768px){
+    
+    .delani1{
+        background-image: url(./assets/backgrounds/h_img.jpg);
+        height: 700px;
+        width: 1300px;
+        padding-top: 60px;
+    }
+    
+    .delani2 {
+        padding: 60px;
+        line-height: 3;
+    }
+    
+    
+    .center-block {
+        margin-top: 70px;
+    }
+    
+    #logo,#mouse {
+        margin-top: 170px;
+    }
+    
+    #we-do {
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    h2,.intro {
+        color: white;
+    }
+    .delani3 {
+        background-image: url(./assets/backgrounds/s_image.jpg);
+        height: 400px;
+        width: 1300px;
+        line-height: 2;
+        color: white;
+        padding-top: 60px;
+    }
+    
+    .delani4 {
+        background-color: white;
+    }
+    
+    .delani5 {
+        background-image: url(./assets/backgrounds/c_image.jpg);
+        height: 700px;
+        width: 1300px
+    }
+    #contacts {
+        color: white;
+        padding-top: 30px;
+    }
+    footer {
+        height: 200px;
+        width: 1300px 
+    }
+    .para-footer,.image-footer {
+        padding-top: 30px;
+        text-align: center;
+        height: auto;
+        width: auto;
+    }
 }
