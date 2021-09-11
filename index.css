@@ -1,8 +1,9 @@
+
 .delani1{
     background-image: url(./assets/backgrounds/h_img.jpg);
     height: 700px;
     width: 1570px;
-    padding-left: 0px;
+    padding-top: 180px;
     margin: 0%;
 }
 
@@ -28,4 +29,6 @@ footer {
 .para-footer,.image-footer {
     padding-top: 30px;
     text-align: center;
+    height: auto;
+    width: auto;
 }
