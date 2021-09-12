@@ -7,12 +7,16 @@
         padding: auto;
     }
 
+    #mce-FNAME, #mce-EMAIL, #mce-YOURMESSAG {
+    background: transparent;
+  }
+
     .delani1{
-        background-image: url(./assets/backgrounds/h_img.jpg);
-        height: 700px;
-        width: 1570px;
-        padding-top: 60px;
-    }
+    background-image: url(./assets/backgrounds/h_img.jpg);
+    height: 700px;
+    width: 1570px;
+    padding-top: 60px;
+  }
     
     .delani2 {
         padding: 60px;
@@ -117,10 +121,6 @@
         color: white;
     }
 
-    #mce-FNAME, #mce-EMAIL, #mce-YOURMESSAG {
-        background: transparent;
-    }
-
 
     .delani5 {
         background-image: url(./assets/backgrounds/c_image.jpg);
@@ -163,30 +163,30 @@
         height: auto;
         width: auto;
     }
-
 }
 
 @media only screen and (max-width: 768px){
 
+    
     body {
         margin: auto;
         padding: auto;
     }
 
+    #mce-FNAME, #mce-EMAIL, #mce-YOURMESSAG {
+    background: transparent;
+  }
+
     .delani1{
-        background-image: url(./assets/backgrounds/h_img.jpg);
-        height: 700px;
-        width: 1570px;
-        padding-top: 60px;
-    }
+    background-image: url(./assets/backgrounds/h_img.jpg);
+    height: 700px;
+    width: 1570px;
+    padding-top: 60px;
+  }
     
     .delani2 {
         padding: 60px;
         line-height: 3;
-    }
-
-    #mce-FNAME, #mce-EMAIL, #mce-YOURMESSAG {
-        background: transparent;
     }
     
     
@@ -330,13 +330,7 @@
         width: auto;
     }
 
-    #mce-FNAME, #mce-EMAIL, #mce-YOURMESSAG {
-        background: transparent;
-    }
-
-
 }
-
 
 @media only screen and (min-width: 992px){
     body {
@@ -344,15 +338,16 @@
         padding: auto;
     }
 
-#mce-FNAME, #mce-EMAIL, #mce-YOURMESSAG {
+    #mce-FNAME, #mce-EMAIL, #mce-YOURMESSAG {
     background: transparent;
-}
+  }
+
     .delani1{
-        background-image: url(./assets/backgrounds/h_img.jpg);
-        height: 700px;
-        width: 1570px;
-        padding-top: 60px;
-    }
+    background-image: url(./assets/backgrounds/h_img.jpg);
+    height: 700px;
+    width: 1570px;
+    padding-top: 60px;
+  }
     
     .delani2 {
         padding: 60px;

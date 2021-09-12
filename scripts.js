@@ -3,24 +3,24 @@ $(document).ready(function(){
  
 // USER INTERFACE DESIGN
 
-// CLICK WHAT WE DO SECTION
+     // CLICK WHAT WE DO SECTION
 
 $("#img-design").click(function(){
     $("#img-descr").toggle()
-    $("#img-design").toggle()
+    $("#img-design").show()
 })
 
 $("#img-dev").click(function(){
     $("#dev-descr").toggle()
-    $("#img-dev").toggle()
+    $("#img-dev").show()
 })
 
 $("#img-service").click(function(){
     $("#service-descr").toggle()
-    $("#img-service").toggle()
+    $("#img-service").show()
 })
 
-// MOUSEOVER AND MOUSELEAVE IMAGE2
+    // MOUSEOVER AND MOUSELEAVE IMAGE2 HOVER
 
 $("#work1").mouseover(function(){
   $("#best-theme").show()
@@ -30,7 +30,7 @@ $("#work1").mouseleave(function(){
     $("#best-theme").hide()
   })
 
-//   MOUSEOVER AND MOUSELEAVE IMAGE2
+    //   MOUSEOVER AND MOUSELEAVE IMAGE2 HOVER
 
 $("#work2").mouseover(function(){
     $("#mighty-ontario").show()
@@ -40,7 +40,7 @@ $("#work2").mouseover(function(){
     $("#mighty-ontario").hide()
   })
 
-//   MOUSEOVER AND MOUSELEAVE IMAGE3
+    //   MOUSEOVER AND MOUSELEAVE IMAGE3 HOVER
 
   $("#work3").mouseover(function(){
     $("#theme-section").show()
@@ -50,7 +50,7 @@ $("#work2").mouseover(function(){
     $("#theme-section").hide()
   })
 
-//   MOUSEOVER AND MOUSELEAVE IMAGE4
+     //   MOUSEOVER AND MOUSELEAVE IMAGE4 HOVER
 
   $("#work4").mouseover(function(){
     $("#jim-carrey").show()
@@ -60,7 +60,7 @@ $("#work2").mouseover(function(){
     $("#jim-carrey").hide()
   })
 
-//   MOUSEOVER AND MOUSELEAVE IMAGE5
+     //   MOUSEOVER AND MOUSELEAVE IMAGE5 HOVER
 
   $("#work5").mouseover(function(){
     $("#salutations").show()
@@ -70,7 +70,7 @@ $("#work2").mouseover(function(){
     $("#salutations").hide()
   })
 
-//   MOUSEOVER AND MOUSELEAVE IMAGE6
+     //   MOUSEOVER AND MOUSELEAVE IMAGE6 HOVER
 
   $("#work6").mouseover(function(){
     $("#stereo").show()
@@ -80,7 +80,7 @@ $("#work2").mouseover(function(){
     $("#stereo").hide()
   })
 
-//   MOUSEOVER AND MOUSELEAVE IMAGE7
+     //   MOUSEOVER AND MOUSELEAVE IMAGE7 HOVER
 
   $("#work7").mouseover(function(){
     $("#banned-logo").show()
@@ -90,7 +90,7 @@ $("#work2").mouseover(function(){
     $("#banned-logo").hide()
   })
 
-//   MOUSEOVER AND MOUSELEAVE IMAGE8
+     //   MOUSEOVER AND MOUSELEAVE IMAGE8 HOVER
 
   $("#work8").mouseover(function(){
     $("#bailey-monger").show()
