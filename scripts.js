@@ -17,6 +17,11 @@ $("#img-service").click(function(){
 })
 
 
+$("#work8").hover(function(){
+    $(this).addID("background" ,"#BAILEY");
+})
+
+
 
 
 
@@ -33,3 +38,5 @@ $("#img-service").click(function(){
 
 
 })
+
+

@@ -125,6 +125,17 @@
         width: 1570px 
     }
 
+    .form-control {
+        width: 260px;
+        padding-left: 0px;
+        margin-left: 0px;
+    }
+
+    .col {
+        display: flex;
+        justify-content: space-around;
+    }
+
     #img-descr, #dev-descr, #service-descr {
         display: none;
     } 
