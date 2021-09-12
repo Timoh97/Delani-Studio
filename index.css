@@ -128,10 +128,15 @@
         height: 700px;
         width: 1570px;
     }
-    
+
     #contacts {
         color: white;
         padding-top: 30px;
+    }
+
+    .chimp {
+        margin-left: 480px;
+        margin-top: 80px;
     }
 
     footer {
