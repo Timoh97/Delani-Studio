@@ -115,14 +115,15 @@
         padding-left: 50px;
     }
 
-    .bailey {
+     .portfolios {
+        display: none;
         text-align: center;
         padding-top: 120px;
         border: 3px solid blue;
         height: 340px;
-        width: 340px;
+        width: 355px;
     }
-    
+     
     .delani5 {
         background-image: url(./assets/backgrounds/c_image.jpg);
         height: 700px;
@@ -135,7 +136,7 @@
     }
 
     .chimp {
-        margin-left: 480px;
+        margin-left: 540px;
         margin-top: 80px;
     }
 
