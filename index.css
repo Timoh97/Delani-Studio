@@ -1,11 +1,11 @@
-
+/* 
 
 @media only screen and (max-width: 768px){
 
     .delani1{
         background-image: url(./assets/backgrounds/h_img.jpg);
         height: 700px;
-        width: 1300px;
+        width: 15700px;
         padding-top: 60px;
     }
     
@@ -34,7 +34,7 @@
     .delani3 {
         background-image: url(./assets/backgrounds/s_image.jpg);
         height: 400px;
-        width: 1300px;
+        width: 1570px;
         line-height: 2;
         color: white;
         padding-top: 60px;
@@ -47,7 +47,7 @@
     .delani5 {
         background-image: url(./assets/backgrounds/c_image.jpg);
         height: 700px;
-        width: 1300px
+        width: 1570px
     }
     #contacts {
         color: white;
@@ -55,7 +55,7 @@
     }
     footer {
         height: 200px;
-        width: 1300px 
+        width: 1570px 
     }
     .para-footer,.image-footer {
         padding-top: 30px;
@@ -63,7 +63,7 @@
         height: auto;
         width: auto;
     }
-}
+} */
 
 
 @media only screen and (min-width: 992px){
@@ -71,7 +71,7 @@
     .delani1{
         background-image: url(./assets/backgrounds/h_img.jpg);
         height: 700px;
-        width: 1300px;
+        width: 1570px;
         padding-top: 60px;
     }
     
@@ -100,7 +100,7 @@
     .delani3 {
         background-image: url(./assets/backgrounds/s_image.jpg);
         height: 400px;
-        width: 1300px;
+        width: 1570px;
         line-height: 2;
         color: white;
         padding-top: 60px;
@@ -108,12 +108,13 @@
     
     .delani4 {
         background-color: white;
+        padding-left: 50px;
     }
     
     .delani5 {
         background-image: url(./assets/backgrounds/c_image.jpg);
         height: 700px;
-        width: 1300px
+        width: 1570px
     }
     #contacts {
         color: white;
@@ -121,7 +122,7 @@
     }
     footer {
         height: 200px;
-        width: 1300px 
+        width: 1570px 
     }
     .para-footer,.image-footer {
         padding-top: 30px;
