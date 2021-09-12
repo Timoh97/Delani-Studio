@@ -117,6 +117,10 @@
         color: white;
     }
 
+    #mce-FNAME, #mce-EMAIL, #mce-YOURMESSAG {
+        background: transparent;
+    }
+
 
     .delani5 {
         background-image: url(./assets/backgrounds/c_image.jpg);
@@ -179,6 +183,10 @@
     .delani2 {
         padding: 60px;
         line-height: 3;
+    }
+
+    #mce-FNAME, #mce-EMAIL, #mce-YOURMESSAG {
+        background: transparent;
     }
     
     
@@ -322,6 +330,11 @@
         width: auto;
     }
 
+    #mce-FNAME, #mce-EMAIL, #mce-YOURMESSAG {
+        background: transparent;
+    }
+
+
 }
 
 
@@ -331,6 +344,9 @@
         padding: auto;
     }
 
+#mce-FNAME, #mce-EMAIL, #mce-YOURMESSAG {
+    background: transparent;
+}
     .delani1{
         background-image: url(./assets/backgrounds/h_img.jpg);
         height: 700px;
