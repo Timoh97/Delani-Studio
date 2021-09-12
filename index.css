@@ -67,6 +67,10 @@
 
 
 @media only screen and (min-width: 992px){
+    body {
+        margin: auto;
+        padding: auto;
+    }
 
     .delani1{
         background-image: url(./assets/backgrounds/h_img.jpg);
@@ -110,16 +114,26 @@
         background-color: white;
         padding-left: 50px;
     }
+
+    .bailey {
+        text-align: center;
+        padding-top: 120px;
+        border: 3px solid blue;
+        height: 340px;
+        width: 340px;
+    }
     
     .delani5 {
         background-image: url(./assets/backgrounds/c_image.jpg);
         height: 700px;
-        width: 1570px
+        width: 1570px;
     }
+    
     #contacts {
         color: white;
         padding-top: 30px;
     }
+
     footer {
         height: 200px;
         width: 1570px 
