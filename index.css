@@ -1,11 +1,16 @@
-/* 
+
 
 @media only screen and (max-width: 768px){
+
+    body {
+        margin: auto;
+        padding: auto;
+    }
 
     .delani1{
         background-image: url(./assets/backgrounds/h_img.jpg);
         height: 700px;
-        width: 15700px;
+        width: 1570px;
         padding-top: 60px;
     }
     
@@ -42,28 +47,120 @@
     
     .delani4 {
         background-color: white;
+        padding-left: 50px;
     }
-    
+
+     .portfolios {
+        display: none;
+        position: fixed;
+        font-weight: 700;
+        text-align: center;
+        padding-top: 120px;
+        border: 10px solid white;
+        height: 280px;
+        width: 350px;
+    }
+
+
+    #best-theme {
+        position: relative;
+        margin-top:-295px ;
+        margin-left: 3px;
+        color: white;
+    }
+
+    #mighty-ontario {
+        position: relative;
+        margin-top:-295px ;
+        margin-left: 375px;
+        color: white;
+    }
+
+    #theme-section {
+        position: relative;
+        margin-top:-295px ;
+        margin-left: 745px;
+        color: white;
+    }
+    #jim-carrey {
+        position: relative;
+        margin-top:-295px ;
+        margin-left: 1115px;
+        color: white;
+    }
+
+    #salutations {
+        position: relative;
+        margin-top:-290px ;
+        margin-left: 3px;
+        color: white;
+    }
+     
+    #stereo {
+        position: relative;
+        margin-top:-290px ;
+        margin-left: 374px;
+        color: white;
+    }
+
+    #banned-logo {
+        position: relative;
+        margin-top:-290px ;
+        margin-left: 744px;
+        color: white;
+    }
+
+    #bailey-monger{
+        position: relative;
+        margin-top:-290px ;
+        margin-left: 1116px;
+        color: white;
+    }
+
+
     .delani5 {
         background-image: url(./assets/backgrounds/c_image.jpg);
         height: 700px;
-        width: 1570px
+        width: 1570px;
     }
+
     #contacts {
         color: white;
         padding-top: 30px;
     }
+
+    .chimp {
+        margin-left: 540px;
+        margin-top: 80px;
+    }
+
     footer {
         height: 200px;
         width: 1570px 
     }
+
+    .form-control {
+        width: 260px;
+        padding-left: 0px;
+        margin-left: 0px;
+    }
+
+    .col {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    #img-descr, #dev-descr, #service-descr {
+        display: none;
+    } 
     .para-footer,.image-footer {
         padding-top: 30px;
         text-align: center;
         height: auto;
         width: auto;
     }
-} */
+
+}
 
 
 @media only screen and (min-width: 992px){
@@ -117,13 +214,72 @@
 
      .portfolios {
         display: none;
+        position: fixed;
+        font-weight: 700;
         text-align: center;
         padding-top: 120px;
-        border: 3px solid blue;
-        height: 340px;
-        width: 355px;
+        border: 10px solid white;
+        height: 280px;
+        width: 350px;
+    }
+
+
+    #best-theme {
+        position: relative;
+        margin-top:-295px ;
+        margin-left: 3px;
+        color: white;
+    }
+
+    #mighty-ontario {
+        position: relative;
+        margin-top:-295px ;
+        margin-left: 375px;
+        color: white;
+    }
+
+    #theme-section {
+        position: relative;
+        margin-top:-295px ;
+        margin-left: 745px;
+        color: white;
+    }
+    #jim-carrey {
+        position: relative;
+        margin-top:-295px ;
+        margin-left: 1115px;
+        color: white;
+    }
+
+    #salutations {
+        position: relative;
+        margin-top:-290px ;
+        margin-left: 3px;
+        color: white;
     }
      
+    #stereo {
+        position: relative;
+        margin-top:-290px ;
+        margin-left: 374px;
+        color: white;
+    }
+
+    #banned-logo {
+        position: relative;
+        margin-top:-290px ;
+        margin-left: 744px;
+        color: white;
+    }
+
+    #bailey-monger{
+        position: relative;
+        margin-top:-290px ;
+        margin-left: 1116px;
+        color: white;
+    }
+
+
     .delani5 {
         background-image: url(./assets/backgrounds/c_image.jpg);
         height: 700px;

@@ -3,7 +3,7 @@ $(document).ready(function(){
  
 // USER INTERFACE DESIGN
 
-// CLICK WHAT WE DO
+// CLICK WHAT WE DO SECTION
 
 $("#img-design").click(function(){
     $("#img-descr").toggle()
