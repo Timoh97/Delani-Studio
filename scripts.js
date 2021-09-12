@@ -1,5 +1,9 @@
 $(document).ready(function(){
 
+ 
+// USER INTERFACE DESIGN
+
+// CLICK WHAT WE DO
 
 $("#img-design").click(function(){
     $("#img-descr").toggle()
@@ -16,6 +20,8 @@ $("#img-service").click(function(){
     $("#img-service").toggle()
 })
 
+// MOUSEOVER AND MOUSELEAVE IMAGE2
+
 $("#work1").mouseover(function(){
   $("#best-theme").show()
 })
@@ -23,6 +29,8 @@ $("#work1").mouseover(function(){
 $("#work1").mouseleave(function(){
     $("#best-theme").hide()
   })
+
+//   MOUSEOVER AND MOUSELEAVE IMAGE2
 
 $("#work2").mouseover(function(){
     $("#mighty-ontario").show()
@@ -32,6 +40,8 @@ $("#work2").mouseover(function(){
     $("#mighty-ontario").hide()
   })
 
+//   MOUSEOVER AND MOUSELEAVE IMAGE3
+
   $("#work3").mouseover(function(){
     $("#theme-section").show()
   })
@@ -39,6 +49,8 @@ $("#work2").mouseover(function(){
   $("#work3").mouseleave(function(){
     $("#theme-section").hide()
   })
+
+//   MOUSEOVER AND MOUSELEAVE IMAGE4
 
   $("#work4").mouseover(function(){
     $("#jim-carrey").show()
@@ -48,6 +60,8 @@ $("#work2").mouseover(function(){
     $("#jim-carrey").hide()
   })
 
+//   MOUSEOVER AND MOUSELEAVE IMAGE5
+
   $("#work5").mouseover(function(){
     $("#salutations").show()
   })
@@ -55,6 +69,8 @@ $("#work2").mouseover(function(){
   $("#work5").mouseleave(function(){
     $("#salutations").hide()
   })
+
+//   MOUSEOVER AND MOUSELEAVE IMAGE6
 
   $("#work6").mouseover(function(){
     $("#stereo").show()
@@ -64,6 +80,8 @@ $("#work2").mouseover(function(){
     $("#stereo").hide()
   })
 
+//   MOUSEOVER AND MOUSELEAVE IMAGE7
+
   $("#work7").mouseover(function(){
     $("#banned-logo").show()
   })
@@ -72,6 +90,8 @@ $("#work2").mouseover(function(){
     $("#banned-logo").hide()
   })
 
+//   MOUSEOVER AND MOUSELEAVE IMAGE8
+
   $("#work8").mouseover(function(){
     $("#bailey-monger").show()
   })
@@ -79,6 +99,9 @@ $("#work2").mouseover(function(){
   $("#work8").mouseleave(function(){
     $("#bailey-monger").hide()
   })
+
+
+//   BUSINESS INTERFACE
 
 $("#mc-embedded-subscribe").click(function() {
     var fName = $("input#mce-FNAME").val()
