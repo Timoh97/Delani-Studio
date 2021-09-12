@@ -3,19 +3,18 @@ $(document).ready(function(){
 
 $("#img-design").click(function(){
     $("#img-descr").toggle()
-    $("#img-design").show()
+    $("#img-design").hide()
 })
 
 $("#img-dev").click(function(){
     $("#dev-descr").toggle()
-    $("#img-dev").show()
+    $("#img-dev").hide()
 })
 
 $("#img-service").click(function(){
     $("#service-descr").toggle()
-    $("#img-service").sow()
+    $("#img-service").hide()
 })
-
 
 
 

@@ -124,6 +124,10 @@
         height: 200px;
         width: 1570px 
     }
+
+    #img-descr, #dev-descr, #service-descr {
+        display: none;
+    } 
     .para-footer,.image-footer {
         padding-top: 30px;
         text-align: center;
