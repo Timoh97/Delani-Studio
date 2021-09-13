@@ -485,6 +485,12 @@
         justify-content: space-around;
     }
 
+    #mc_embed_signup{
+        background:transparent; 
+        clear:left; 
+        font:14px Helvetica,Arial,sans-serif; 
+        width:500px;}
+
     #img-descr, #dev-descr, #service-descr {
         display: none;
     } 
