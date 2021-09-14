@@ -1,5 +1,56 @@
 
 
+#work5 {
+    margin-top: 15px;
+}
+
+.folios {
+    display: flex;
+}
+
+
+.portfolios {
+    height: 290px;
+    width: 500px;
+    
+    color: white;
+    font-size: 700;
+    background-repeat: no-repeat;
+}
+
+.folios {
+    display: flex;
+}
+
+.new-tim {
+    height:280px;
+    width: 360px;
+    background-color: black;
+    opacity: 0.5;
+    display: none;
+}
+
+.imagess {
+    margin: 4px;
+}
+
+.new {
+    background-color: black;
+    opacity: 0.5;
+    background-repeat: no-repeat;
+    display: none;
+    height:280px;
+    width: 3800px;
+    display: none;
+
+}
+
+@media only screen and (min-width: 600px){
+
+    
+}
+
+
 @media only screen and (min-width: 600px){
 
     body {
@@ -502,3 +553,14 @@
     }
 
 }
+
+
+
+
+
+
+
+
+
+
+
